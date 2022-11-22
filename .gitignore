@@ -1,6 +1,7 @@
+.idea/compiler.xml
+.idea/vcs.xml
 # Compiled class file
 *.class
-
 # Log file
 *.log
 
