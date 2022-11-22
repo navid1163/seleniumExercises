@@ -7,7 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="navidSelenium" />
-        <module name="seleniumExercises" />
+        <module name="SeleniumSolera" />
       </profile>
     </annotationProcessing>
   </component>
